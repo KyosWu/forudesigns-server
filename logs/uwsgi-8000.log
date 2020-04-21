@@ -1,0 +1,5 @@
+Not Found: /cgi-bin/welcome
+[pid: 9803|app: 0|req: 375/375] 127.0.0.1 () {28 vars in 434 bytes} [Mon Mar  2 11:51:41 2020] GET /cgi-bin/welcome => generated 1976 bytes in 3 msecs (HTTP/1.0 404) 4 headers in 129 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: 'VM_0_3_centos:8000'. The domain name provided is not valid according to RFC 1034/1035.
+Bad Request: /
+[pid: 9803|app: 0|req: 376/376] 188.11.197.114 () {18 vars in 185 bytes} [Mon Mar  2 12:07:03 2020] GET / => generated 53914 bytes in 883 msecs (HTTP/1.1 400) 2 headers in 86 bytes (3 switches on core 0)
